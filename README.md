@@ -5,3 +5,5 @@ Hi, I'm Joachim and I study mathematics. Also I want to become better at program
 <a href="https://www.codeabbey.com/index/user_profile/kittyaurel">
                 <img alt="User banner" src="https://www.codeabbey.com/index/user_banner/kittyaurel.png"/>
 </a>
+
+$$\mathrm{e}^{\pi i} +1=0$$
